@@ -2,7 +2,7 @@
 
 <h2 align = "center"> Beginer Java developer </h2>
 
-🌱 I’m currently studing in the Hexlet courses in the «Java Developer» Program.
+🌱 I’m currently studying in the Hexlet courses in the «Java Developer» Program.
 
 👨‍💻 I’m currently searching an internship or a Junior Java Developer vacancy.
 
