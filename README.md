@@ -8,7 +8,7 @@
 
 📫 How to reach me:    Email - kupchinskiievgenii81@gmail.com   |   Telegram : @reydenge
 
-⚡ Some facts about me: my English level is C1, in my spare time, i'm learning Japanese,　どうぞよろしこおねがいします。🙏
+⚡ Some facts about me: speak English fluently, in my spare time, i'm learning Japanese,　どうぞよろしこおねがいします。🙏
 <!--
 **Reydenge/Reydenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
