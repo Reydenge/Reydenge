@@ -2,11 +2,11 @@
 
 <h2 align = "center"> Beginer Java developer </h2>
 
-🌱 I’m currently studying in the Hexlet courses in the «Java Developer» Program.
+I graduated Hexlet courses with a degree «Java Developer».
 
-👨‍💻 I’m currently searching an internship or a Junior Java Developer vacancy.
+Currently searching an internship or a Junior Java Developer vacancy.
 
-📫 How to reach me:    Email - kupchinskiievgenii81@gmail.com   |   Telegram : @reydenge
+How to reach me:    Email - kupchinskiievgenii81@gmail.com   |   Telegram : @reydenge
 
 ⚡ Some facts about me: speak English fluently, in my spare time, i'm learning Japanese,　どうぞよろしこおねがいします。🙏
 <!--
